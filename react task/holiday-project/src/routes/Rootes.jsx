@@ -8,6 +8,7 @@ import Details from "../pages/user/details"
 import AdminRoot from "../pages/admin/AdminRoot"
 import AdminFlowers from "../pages/admin/flowers"
 import Dashboard from "../pages/admin/dashboard"
+import AdminDetails from "../pages/admin/details"
 
 const Routes = [
     {
@@ -48,6 +49,10 @@ const Routes = [
             {
                 path: "dashboard",
                 element: <Dashboard/>,
+            },
+            {
+                path: "/admin/adminFlowers/:id",
+                element: <AdminDetails />,
             }
         ]
     }

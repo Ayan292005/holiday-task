@@ -28,7 +28,7 @@ function AdminDetails() {
                 <p>Categories:{product.categories}</p>
                 <p>Description:{product.description}</p>
                 <p>Availability:{product.availability}</p>
-                <button style={{border:"1px solid #f45d96",borderRadius:"10px",padding:"5px"}} onClick={() => navigate("/flowers")}>Go Back</button>
+                <button style={{border:"1px solid #f45d96",borderRadius:"10px",padding:"5px"}} onClick={() => navigate("/admin/adminFlowers")}>Go Back</button>
             </div>
 
         </div>

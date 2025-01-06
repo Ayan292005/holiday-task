@@ -61,7 +61,7 @@ function AdminFlowers() {
                 <td>{product.product_code}</td>
                 <td>{product.availability}</td>
                 <td><button className='bg-green-500 p-2 text-white '>Edit</button></td>
-                <td><button  className='bg-blue-500 p-2 mx-2 text-white'><NavLink to={`/flowers/${product.id}`}>Info</NavLink></button></td>
+                <td><button  className='bg-blue-500 p-2 mx-2 text-white'><NavLink to={`/admin/adminFlowers/${product.id}`}>Info</NavLink></button></td>
                 <td><button  className='bg-red-500 p-2 text-white'  onClick={() => deleteData(product.id)}>Delete</button> </td>
               
 
