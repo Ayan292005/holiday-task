@@ -1,0 +1,60 @@
+
+   {
+"flowers":[{
+        "id":1,
+        "flower_name": "Rose",
+        "price": 15.99,
+        "categories": ["Fresh", "Bouquet", "Valentine's Day"],
+        "product_code": "R12345",
+        "reward_points": 10,
+        "availability": "In Stock",
+        "description": "A classic red rose symbolizing love and romance. Perfect for any occasion.",
+        "image":"https://preview.colorlib.com/theme/florist/img/product/product-1.jpg.webp"
+      },
+      {
+        "id":2,
+        "flower_name": "Tulip",
+        "price": 12.50,
+        "categories": ["Fresh", "Spring", "Bouquet"],
+        "product_code": "T67890",
+        "reward_points": 8,
+        "availability": "In Stock",
+        "description": "Elegant and colorful, tulips brighten up any space. Available in various colors.",
+         "image":"https://preview.colorlib.com/theme/florist/img/product/product-3.jpg.webp"
+      },
+      {
+        "id":3,
+        "flower_name": "Lily",
+        "price": 19.99,
+        "categories": ["Fresh", "Bouquet", "Easter"],
+        "product_code": "L11223",
+        "reward_points": 12,
+        "availability": "Out of Stock",
+        "description": "A beautiful white lily, symbolizing purity and elegance. Perfect for any celebration.",
+         "image":"https://preview.colorlib.com/theme/florist/img/product/product-2.jpg"
+      },
+      {
+        "id":4,
+        "flower_name": "Sunflower",
+        "price": 10.00,
+        "categories": ["Fresh", "Summer", "Bouquet"],
+        "product_code": "S33456",
+        "reward_points": 5,
+        "availability": "In Stock",
+        "description": "A cheerful yellow sunflower that brings joy and brightness to any room.",
+         "image":"https://preview.colorlib.com/theme/florist/img/product/product-4.jpg"
+      },
+      {
+        "id":5,
+        "flower_name": "Orchid",
+        "price": 25.00,
+        "categories": ["Exotic", "Indoor", "Luxury"],
+        "product_code": "O78901",
+        "reward_points": 20,
+        "availability": "In Stock",
+        "description": "An elegant orchid with delicate petals and vibrant colors. A luxurious choice for your home.",
+         "image":"https://preview.colorlib.com/theme/florist/img/product/product-7.jpg"
+      }
+    ]
+   }
+   
